@@ -203,4 +203,5 @@
     <string name="l_s_wall_ok">确定</string>
     <string name="l_s_wall_cancel">取消</string>
     <string name="l_s_wall_btn_blur">按钮模糊度</string>
+    <string name="l_nav_waze">Waze</string>
 </resources>
